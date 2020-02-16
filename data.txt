@@ -1,0 +1,8 @@
+Computers are some of the most versatile tools that we have available. They are capable of performing stunning feats of computation
+they allow information to be exchanged easily regardless of their physical location, they simplify many every-day tasks
+and they allow us to automate many processes that would be tedious or boring to perform otherwise. However, computers are not intelligent
+as we are. 
+They have to be told in no uncertain terms exactly what they're supposed to do, and their native languages are quite unlike anything we speak. 
+Thus, there's a formidable language barrier between a person who wishes a computer to do something, and the computer that typically 
+requires instructions in its native language, machine code, to do anything. So far, computers cannot figure out what they are supposed to do on their own
+and thus they rely on programs which we create, which are sets of instructions that the computer can understand and follow.
